@@ -1,0 +1,20 @@
+.corpoSites{
+    background-color: black;
+    color: wheat;
+}
+
+
+
+a:link{
+    color: wheat;
+}
+a:hover{
+    color: rgb(1, 57, 1);
+    cursor: pointer;
+}
+a:visited{
+    color: silver;
+}
+a:active{
+    color: darkgoldenrod;
+}

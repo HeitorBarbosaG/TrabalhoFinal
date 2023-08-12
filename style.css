@@ -1,0 +1,211 @@
+.corpo{
+    background-color: rgb(0, 12, 0);
+    color: wheat;
+}
+.introducao{
+    color: wheat;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.titulo{
+    font-size: 27px;
+    padding-left: 50px;
+    color:wheat;
+    text-align: left;
+}
+.p_intro{
+    font-size: 17px;
+    padding-left: 50px;
+    margin-top: -35px;
+    color: wheat;
+    text-align: center;
+    width: 700px;
+    height: 400px;
+}
+#img_inicio{
+    margin-right: 20px;
+    margin-top: -15px;
+    text-align: center;
+    width: 600px;
+}
+.livros_links{
+    color: wheat;
+    padding-top: 50px;
+    margin-left: 1100px;
+
+}
+.livros{
+    display: flex;
+    flex-direction: row;
+    margin-top: -490px;
+}
+.livrosimpares{
+    padding-left: 75px;
+    color: wheat;
+}
+#titulo1{
+    margin-left: 70px;
+}
+#img_l1{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto1{
+    width: 440px;
+}
+#titulo3{
+    margin-left: 110px;
+}
+#img_l3{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto3{
+    margin-top: -25px;
+    width: 440px;
+}
+#titulo5{
+    margin-left: 90px;
+}
+#img_l5{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto5{
+    width: 440px;
+}
+#titulo7{
+    margin-left: 80px;
+}
+#img_l7{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto7{
+    width: 440px;
+}
+#titulo9{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+#img_l9{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto9{
+    width: 440px;
+}
+#titulo11{
+    margin-left: 70px;
+}
+#img_l11{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto11{
+    width: 440px;
+    padding-bottom: 30px;
+}
+.livrospares{
+    color: wheat;
+    padding-left: 50px;
+}
+#titulo2{
+    margin-left: 90px;
+}
+#img_l2{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto2{
+    width: 440px;
+}
+#titulo4{
+    margin-left: 80px;
+    margin-top: 70px;
+}
+#img_l4{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto4{
+    width: 440px;
+}
+#titulo6{
+    margin-left: 80px;
+    margin-top: 95px;
+}
+#img_l6{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto6{
+    width: 440px;
+}
+#titulo8{
+    margin-left: 100px;
+    margin-top: 110px;
+}
+#img_l8{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto8{
+    width: 440px;
+}
+#titulo10{
+    margin-left: 100px;
+    margin-top: 45px;
+}
+#img_l10{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto10{
+    width: 440px;
+}
+#titulo12{
+    margin-left: 100px;
+    margin-top: 45px;
+}
+#img_l12{
+    padding-left: 30px;
+    height: 300px;
+}
+#texto12{
+    width: 440px;
+}
+#hiperlink{
+    padding-left: 75px;
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a:link{
+    color: wheat;
+}
+a:hover{
+    color: rgb(1, 57, 1);
+    cursor: pointer;
+}
+a:visited{
+    color: silver;
+}
+a:active{
+    color: darkgoldenrod;
+}
